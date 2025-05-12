@@ -12,6 +12,7 @@ class Program
             "Chair",
             "Refrigerator",
             "Microwave",
+            "Table",
         };
 
         Console.WriteLine("List of Household Items:");

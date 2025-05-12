@@ -13,6 +13,7 @@ class Program
             "Refrigerator",
             "Microwave",
             "Table",
+            "Lamp",
         };
 
         Console.WriteLine("List of Household Items:");
